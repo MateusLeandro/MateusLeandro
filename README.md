@@ -24,7 +24,7 @@
 ## 🚀 Sobre Mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Universidade São Judas Tadeu e estagiário de TI na Vivo (Governança e Arquitetura).  
-Tenho grande interesse na área de dados e atualmente estudo **Power BI** para dashboards, **Python**, **R** e **SQL** para manipulação de dados e possuo certificação **Lean Six Sigma Yellow Belt** focada em melhoria de processos. Aberto a colaborações em projetos de dados!  
+Tenho grande interesse na área de dados e atualmente estudo **Power BI** para dashboards, **Python** e **SQL** para manipulação de dados e possuo certificação **Lean Six Sigma Yellow Belt** focada em melhoria de processos. Aberto a colaborações em projetos de dados!  
 São Paulo, SP.📍
 
 ## 🚀 Tecnologias & Ferramentas
