@@ -31,7 +31,6 @@ São Paulo, SP.📍
 
 ### 📊 Análise e Visualização de Dados
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)
 
 ### 💾 Bancos de Dados
@@ -39,7 +38,6 @@ São Paulo, SP.📍
 
 ### 🛠️ Ferramentas
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![RStudio](https://img.shields.io/badge/-RStudio-75BE42?style=flat&logo=RStudio&logoColor=white)](https://posit.co/products/open-source/rstudio/)
 [![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)](https://www.office.com/)
 
 <div align="center">
