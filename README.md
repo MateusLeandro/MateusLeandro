@@ -1,5 +1,3 @@
-README GERAL GITHUB:
-
 <div align="center">
 
 <div>
